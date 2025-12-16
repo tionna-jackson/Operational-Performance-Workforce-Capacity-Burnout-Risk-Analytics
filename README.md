@@ -33,6 +33,7 @@ Techniques: Regression, Classification, Forecasting, Correlation, DAX KPI Modeli
 # ⭐ Why This Project Matters 
 
 Gartner hires analysts who can think beyond dashboards — they want professionals who can:
+
 ✔ Turn data into decisions  
 ✔ Identify the “why” behind performance patterns  
 ✔ Connect workforce metrics to operational outcomes  
