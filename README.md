@@ -20,7 +20,7 @@ Programming: **R**
 Dashboarding: **Power BI**  
 Techniques: Regression, Classification, Forecasting, Correlation, DAX KPI Modeling.
 
-## Business Questions Addressed
+##🔍 **Business Questions Addressed**
 - Are teams operating within sustainable capacity utilization levels?
 - Where is ticket demand exceeding current workforce capacity?
 - How does training investment impact SLA performance?
@@ -88,9 +88,10 @@ A 500-row synthetic dataset representing real-world analyst workforce metrics.
 | predicted_ticket_volume | Forecasted demand |
 
 ---
-##📌 Dashboard Breakdown & Key Insights
+##🎯 **Dashboard Breakdown & Key Insights**
 
-### **Page 1: Operational Performance Analytics**
+### 📌 **Page 1: Operational Performance Analytics** (https://github.com/tionna-jackson/Operational-Performance-Workforce-Capacity-Burnout-Risk-Analytics/blob/a288ac201648185d88e5ff0473636de078063d90/Screenshot%202025-12-16%20152136.png)
+
 Purpose: Assess current service performance and capacity alignment.
 
 **Key Insights:**
@@ -102,7 +103,8 @@ Purpose: Assess current service performance and capacity alignment.
 
 ---
 
-### **Page 2: Training Effectiveness & SLA Impact**
+###📌  **Page 2: Training Effectiveness & SLA Impact** (https://github.com/tionna-jackson/Operational-Performance-Workforce-Capacity-Burnout-Risk-Analytics/blob/a288ac201648185d88e5ff0473636de078063d90/Screenshot%202025-12-16%20152117.png)
+
 Purpose: Evaluate training as a driver of service performance and burnout reduction.
 
 **Key Insights:**
@@ -114,7 +116,7 @@ Purpose: Evaluate training as a driver of service performance and burnout reduct
 
 ---
 
-### **Page 3: Operational Risk, Burnout & Workforce Sustainability**
+### 📌 **Page 3: Operational Risk, Burnout & Workforce Sustainability** (https://github.com/tionna-jackson/Operational-Performance-Workforce-Capacity-Burnout-Risk-Analytics/blob/a288ac201648185d88e5ff0473636de078063d90/Screenshot%202025-12-16%20152047.png)
 Purpose: Identify high-risk teams and forecast future service gaps.
 
 **Key Insights:**
@@ -129,6 +131,7 @@ Purpose: Identify high-risk teams and forecast future service gaps.
 (https://www.loom.com/share/4c672812e54e41aab47a9342ea977a9d)
 
 ---
+
 ## Final Recommendations
 - Rebalance ticket demand across teams to reduce overload risk.
 - Maintain capacity utilization within a sustainable 70–80% range.
@@ -138,7 +141,7 @@ Purpose: Identify high-risk teams and forecast future service gaps.
 
 ---
 
-## Conclusion
+##💡**Conclusion**
 This project demonstrates how integrated operational and people analytics can support sustainable service delivery, protect SLA performance, and inform leadership decisions. The approach reflects real-world advisory and analytics practices used to drive measurable organizational outcomes.
 
 ## 📎 Author
