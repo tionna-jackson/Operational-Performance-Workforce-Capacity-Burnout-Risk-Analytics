@@ -67,7 +67,8 @@ This project mirrors that by analyzing:
     
 ---
 
-# 📁 Dataset: `gartner_analytics_operations.csv` (https://github.com/tionna-jackson/Operational-Performance-Workforce-Capacity-Burnout-Risk-Analytics/blob/3ff78e9395010afc8d73e212008ba5483644cd21/cleaned_gartner_dataset.csv)
+# 📁 Dataset: 
+Cleaned dataset here: (https://github.com/tionna-jackson/Operational-Performance-Workforce-Capacity-Burnout-Risk-Analytics/blob/3ff78e9395010afc8d73e212008ba5483644cd21/cleaned_gartner_dataset.csv)
  
 A 500-row synthetic dataset representing real-world analyst workforce metrics.
 
