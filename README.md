@@ -20,7 +20,7 @@ Programming: **R**
 Dashboarding: **Power BI**  
 Techniques: Regression, Classification, Forecasting, Correlation, DAX KPI Modeling.
 
-##🔍 **Business Questions Addressed**
+## 🔍 **Business Questions Addressed**
 - Are teams operating within sustainable capacity utilization levels?
 - Where is ticket demand exceeding current workforce capacity?
 - How does training investment impact SLA performance?
